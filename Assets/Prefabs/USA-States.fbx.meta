@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 000b34de476eec540889285f20eeaf84
+timeCreated: 1486050789
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Alabama
+    100002: Alaska
+    100004: Arizona
+    100006: Arkansas
+    100008: California
+    100010: Colorado
+    100012: Connecticut
+    100014: Delaware
+    100016: Georgia
+    100018: Hawai
+    100020: Idaho
+    100022: Illinois
+    100024: Indiana
+    100026: Iowa
+    100028: Kansas
+    100030: Kentucky
+    100032: Louisiana
+    100034: Maine
+    100036: Maryland
+    100038: Massachusetts
+    100040: Michigan
+    100042: Minnesota
+    100044: Mississippi
+    100046: Missouri
+    100048: Montana
+    100050: Nebraska
+    100052: Nevada
+    100054: New Hampshire
+    100056: New Jersey
+    100058: New Mexico
+    100060: New York
+    100062: North Carolina
+    100064: North Dakota
+    100066: Ohio
+    100068: Oklahoma
+    100070: Oregon
+    100072: Pennsylvania
+    100074: Rhode Island
+    100076: South Carolina
+    100078: South Dakota
+    100080: Tennessee
+    100082: Texas
+    100084: //RootNode
+    100086: Utah
+    100088: Vermont
+    100090: Virginia
+    100092: Washington
+    100094: West Virginia
+    100096: Wisconsin
+    100098: Wyomig
+    400000: Alabama
+    400002: Alaska
+    400004: Arizona
+    400006: Arkansas
+    400008: California
+    400010: Colorado
+    400012: Connecticut
+    400014: Delaware
+    400016: Georgia
+    400018: Hawai
+    400020: Idaho
+    400022: Illinois
+    400024: Indiana
+    400026: Iowa
+    400028: Kansas
+    400030: Kentucky
+    400032: Louisiana
+    400034: Maine
+    400036: Maryland
+    400038: Massachusetts
+    400040: Michigan
+    400042: Minnesota
+    400044: Mississippi
+    400046: Missouri
+    400048: Montana
+    400050: Nebraska
+    400052: Nevada
+    400054: New Hampshire
+    400056: New Jersey
+    400058: New Mexico
+    400060: New York
+    400062: North Carolina
+    400064: North Dakota
+    400066: Ohio
+    400068: Oklahoma
+    400070: Oregon
+    400072: Pennsylvania
+    400074: Rhode Island
+    400076: South Carolina
+    400078: South Dakota
+    400080: Tennessee
+    400082: Texas
+    400084: //RootNode
+    400086: Utah
+    400088: Vermont
+    400090: Virginia
+    400092: Washington
+    400094: West Virginia
+    400096: Wisconsin
+    400098: Wyomig
+    2300000: Alabama
+    2300002: Alaska
+    2300004: Arizona
+    2300006: Arkansas
+    2300008: California
+    2300010: Colorado
+    2300012: Connecticut
+    2300014: Delaware
+    2300016: Georgia
+    2300018: Hawai
+    2300020: Idaho
+    2300022: Illinois
+    2300024: Indiana
+    2300026: Iowa
+    2300028: Kansas
+    2300030: Kentucky
+    2300032: Louisiana
+    2300034: Maine
+    2300036: Maryland
+    2300038: Massachusetts
+    2300040: Michigan
+    2300042: Minnesota
+    2300044: Mississippi
+    2300046: Missouri
+    2300048: Montana
+    2300050: Nebraska
+    2300052: Nevada
+    2300054: New Hampshire
+    2300056: New Jersey
+    2300058: New Mexico
+    2300060: New York
+    2300062: North Carolina
+    2300064: North Dakota
+    2300066: Ohio
+    2300068: Oklahoma
+    2300070: Oregon
+    2300072: Pennsylvania
+    2300074: Rhode Island
+    2300076: South Carolina
+    2300078: South Dakota
+    2300080: Tennessee
+    2300082: Texas
+    2300084: //RootNode
+    2300086: Utah
+    2300088: Vermont
+    2300090: Virginia
+    2300092: Washington
+    2300094: West Virginia
+    2300096: Wisconsin
+    2300098: Wyomig
+    3300000: Alabama
+    3300002: Alaska
+    3300004: Arizona
+    3300006: Arkansas
+    3300008: California
+    3300010: Colorado
+    3300012: Connecticut
+    3300014: Delaware
+    3300016: Georgia
+    3300018: Hawai
+    3300020: Idaho
+    3300022: Illinois
+    3300024: Indiana
+    3300026: Iowa
+    3300028: Kansas
+    3300030: Kentucky
+    3300032: Louisiana
+    3300034: Maine
+    3300036: Maryland
+    3300038: Massachusetts
+    3300040: Michigan
+    3300042: Minnesota
+    3300044: Mississippi
+    3300046: Missouri
+    3300048: Montana
+    3300050: Nebraska
+    3300052: Nevada
+    3300054: New Hampshire
+    3300056: New Jersey
+    3300058: New Mexico
+    3300060: New York
+    3300062: North Carolina
+    3300064: North Dakota
+    3300066: Ohio
+    3300068: Oklahoma
+    3300070: Oregon
+    3300072: Pennsylvania
+    3300074: Rhode Island
+    3300076: South Carolina
+    3300078: South Dakota
+    3300080: Tennessee
+    3300082: Texas
+    3300084: //RootNode
+    3300086: Utah
+    3300088: Vermont
+    3300090: Virginia
+    3300092: Washington
+    3300094: West Virginia
+    3300096: Wisconsin
+    3300098: Wyomig
+    4300000: Florida
+    4300002: California
+    4300004: Washington
+    4300006: Oregon
+    4300008: Nevada
+    4300010: Arizona
+    4300012: Utah
+    4300014: Idaho
+    4300016: Colorado
+    4300018: Montana
+    4300020: Wyomig
+    4300022: North Dakota
+    4300024: South Dakota
+    4300026: Nebraska
+    4300028: Kansas
+    4300030: New Mexico
+    4300032: Texas
+    4300034: Oklahoma
+    4300036: Minnesota
+    4300038: Iowa
+    4300040: Mississippi
+    4300042: Louisiana
+    4300044: Alabama
+    4300046: Kentucky
+    4300048: South Carolina
+    4300050: Georgia
+    4300052: Missouri
+    4300054: Arkansas
+    4300056: Tennessee
+    4300058: Massachusetts
+    4300060: North Carolina
+    4300062: Wisconsin
+    4300064: Connecticut
+    4300066: Illinois
+    4300068: Indiana
+    4300070: Ohio
+    4300072: West Virginia
+    4300074: Virginia
+    4300076: Maryland
+    4300078: Delaware
+    4300080: New Jersey
+    4300082: Pennsylvania
+    4300084: New York
+    4300086: Rhode Island
+    4300088: Maine
+    4300090: Vermont
+    4300092: Michigan
+    4300094: New Hampshire
+    4300096: Alaska
+    4300098: Hawai
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
